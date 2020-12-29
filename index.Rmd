@@ -30,7 +30,6 @@ work_history <- read_csv("work_history.csv") %>%
 ```{r figurename, echo=FALSE, fig.cap="", out.width = '10%'}
 knitr::include_graphics("https://lh3.googleusercontent.com/WvXGXai4IaGjGopufxZyJGlDE2vCM6un2vPcwJHSyh9NbEe3lZusr5Sg_Cxtl9fmwzwXmVZ_CYAEU8jwzrRE0xn25PMvSa1A9IcQ1nTBpyJE6TecVfsSlRgFhxN1Ihy3xVMWWjuSyNX7Yud2siYwoTdLe5qY-s6M7Sy4EGz46Sv_1jXcghc-OcVzcmbtqkygXp_DF0P7p8uHefvt_a5uwzpd2Y2Aq22g7P7886kGSGrjhrGBY0exokaZZLs1kDhE7XTyOCnOXeJxX19YTUZx82VCvJsKeiMsiBkmvw9sF8FtAXPz-yLwZGW2djtE7An7fn1qYWb0GCWHKqcoHW-TQFn_2O8O1T0OCgvKM05YU-IXl9QKNGvZAvxHHZKCOd88p8ikNmPEq7P00JPqvNIfzw8xBvnNLIv0ulvg01M8QDtqzzBscEADNP397i8po3Ip-QearHLO23x-D2hZqRJVGJjhFT8Eo4FTLQ0DnAYwNPlK8NeMFE7FXOYeX19ipKj3bQ5pWZ1YfLaO3ZmjSUVOCk6vkpcCVPgloKS3wdMV_yhA8lE-XA_mljQWTd55vYE12knYQdH5KmC8fGEhZsC4MBMUA0PwNaTEgNVOHD6I4vR6VWu80rdhZ-YGTru7DjRPc0Q-H6LcVTsL8zYQCbASYnTj8BbAQKzY89B9R6DHXjSegLIQhKSyQObcr1vv6R8=w838-h818-no?authuser=0", dpi='retina')
 ```
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" href="https://github.com/cdittmeier" width="30" height="30" /> [Github]("https://github.com/cdittmeier") <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" href="https://github.com/cdittmeier" width="30" height="30" />    [LinkedIn]("https://www.linkedin.com/in/christiandittmeier/")
 </p>
 
 <hr> </hr>
